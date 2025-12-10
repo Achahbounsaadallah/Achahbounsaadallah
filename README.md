@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi 👋, I'm Saad Allah
 
-<!--
-**Achahbounsaadallah/Achahbounsaadallah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student in Computer Science  
+💻 Interested in programming, AI, and software development  
+🌱 Currently learning: Flutter, Python, and C#  
+👯 Looking to collaborate on school projects and open-source  
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
+- C, C++, Python, C#
+- SQL, Database Design
+- Unity, Git, Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Reach me:
+- Email: achahbounsaadallah@gmail.com
+
