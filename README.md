@@ -69,7 +69,7 @@ Passionate about Web Development & Backend Systems
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Achahbounsaadallah&show_icons=true&theme=dracula" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Achahbounsaadallah&theme=dracula" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?username=Achahbounsaadallah&theme=dracula" height="160" />
 </div>
 
 ---
