@@ -68,8 +68,8 @@ Passionate about Web Development & Backend Systems
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dracula" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dracula" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Achahbounsaadallah&show_icons=true&theme=dracula" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Achahbounsaadallah&theme=dracula" height="160" />
 </div>
 
 ---
@@ -77,7 +77,7 @@ Passionate about Web Development & Backend Systems
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=dracula&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Achahbounsaadallah&theme=dracula&row=1&column=6" />
 </div>
 
 ---
